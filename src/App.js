@@ -1,10 +1,11 @@
 import React from 'react'
-import ProductApp from './Component/Product/Products/ProductsApp'
+import HomePage from './ShoppingCart/component/HomePage';
+
 
 
 const App = () => {
   return (
-    <ProductApp />
+    <HomePage/>
   )
 }
 
